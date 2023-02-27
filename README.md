@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Suryapujari</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently studying at **Sveri's college of engineering**
+- 🔭 I completed my Btech degree from **Sveri's college of engineering**
 
-- 🌱 I’m currently learning **Framework bootstrap,angular js**
+- 🌱 I’m currently learning **.net **
 
 - 💬 Ask me about **web devlopment (HTML,Css,node.js,MongoDB,Express)**
 
